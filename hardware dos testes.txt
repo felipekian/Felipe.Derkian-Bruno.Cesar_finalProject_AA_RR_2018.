@@ -1,0 +1,9 @@
+
+
+	Notebook Acer aspire E 15 573
+	core i5 5200u
+	8Gb de RAM 1333mhz
+	Hd 500Gb
+	
+	Sistema Operacional Linux Ubuntu 18.04 LTS com Gnome-shell
+	temperatura do ambiente de testes entre 23 - 32 graus
